@@ -1,0 +1,8 @@
+{
+  "telegramNotification": false,
+  "telegramBotToken": "6858658395:AAF49oAP8zPj7YT6ockWcJFqpcYOT1nxcfI",
+  "telegramUserId": "556373822",
+  "rpcUrl": "https://1rpc.io/near",
+  "networkId": "mainnet",
+  "claimContractId": "game.hot.tg"
+}
